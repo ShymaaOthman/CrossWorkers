@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrossworkersTask</string>
+
+    <!-- strings.xml -->
+    <string name="title">Shampoo sale - limited offer!</string>
+
+    <string name="check_internet">Check Internet Connection</string>
+
+    <string name="price">Pris:</string>
+    <string name="save">Spar:</string>
+
+
+</resources>
